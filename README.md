@@ -89,7 +89,7 @@ passengers: Number of airline passengers
 
  output from the analysis:
 
-![EDA Screenshot](tpy.png)
+![EDA Screenshot](images/tpy.png)
 
 
 
