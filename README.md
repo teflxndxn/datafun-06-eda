@@ -89,7 +89,8 @@ passengers: Number of airline passengers
 
  output from the analysis:
 
-![Line chart of total airline passengers](images/tpy.png) 
+![EDA Screenshot](images/tpy.png)
+
 
 
  # Git Workflow
